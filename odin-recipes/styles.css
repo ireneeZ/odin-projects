@@ -8,32 +8,38 @@ img {
   height: auto;
   max-width: 100%;
   display: block;
-  width: 25%;
+  width: 20%;
 }
 
 .home-image {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 15%;
-}
-
-.main-title {
-    color: #277a6f;
-    margin-top: 0px;
-    font-size: 30px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 15%;
 }
 
 .page-title {
-    color: #277a6f;
-    font-family: 'adelia';
-    margin-top: 0px;
-    font-size: 20px;
+  color: #277a6f;
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+#home-title {
+  color: #277a6f;
+  margin-top: 0px;
+  font-size: 30px;
+}
+
+.home-image#logo {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a.button {
-    padding: 1px 6px;
-    border: 1px outset rgb(110, 110, 110);
-    border-radius: 3px;
-    color: #277a6f;
+  padding: 1px 6px;
+  border: 1px outset rgb(110, 110, 110);
+  border-radius: 3px;
+  color: #277a6f;
 }
