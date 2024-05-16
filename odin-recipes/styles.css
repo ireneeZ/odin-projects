@@ -1,0 +1,39 @@
+* {
+  font-size: 12px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  max-width: 100%;
+  display: block;
+  width: 25%;
+}
+
+.home-image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 15%;
+}
+
+.main-title {
+    color: #277a6f;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.page-title {
+    color: #277a6f;
+    font-family: 'adelia';
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+a.button {
+    padding: 1px 6px;
+    border: 1px outset rgb(110, 110, 110);
+    border-radius: 3px;
+    color: #277a6f;
+}
